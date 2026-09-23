@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2b6779d85498caf4bee3439d",
+  "owner": "dshyseegh",
+  "repo": "page-6a4d331b9764c54d50489871",
+  "title": "在人间",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6a4d331b9764c54d50489871",
+      "a": "在人间",
+      "b": "机场官网线路发布页",
+      "entity": "在人间",
+      "brand": "在人间",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8f0fa1336244630782fb555593a3dfea29c6e7b33c08297324b5b57d07a54b7e",
+      "content": {
+        "primary_entity": "在人间",
+        "keyword1": "在人间",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，在人间提供基础版、旗舰版与团队版三档套餐，月付与年付灵活可选。基础版¥15/月含100GB流量与3台设备，旗舰版¥35/月含300GB流量、5台设备与IPLC专线游戏加速，团队版¥85/月含1000GB流量与20台设备。按年付各档分别只需¥150、¥350与¥850，适合个人、家庭与小型团队按需订阅。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HERO_INTRO": "在人间是面向多设备用户的网络加速服务，按流量与在线设备数划分基础版、旗舰版与团队版。依据日常使用设备数量与流量消耗选择档位，再按客户端文档导入订阅即可开始使用。",
+          "AI_VISUAL_TITLE": "在人间·选对套餐再出发",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "年付价格低于月付总和",
+          "AI_HIGHLIGHT_3": "支持多客户端订阅配置",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期出发，挑选合适的在人间套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，覆盖手机、电脑与平板。",
+          "AI_FEATURE_TITLE_2": "按流量估周期",
+          "AI_FEATURE_TEXT_2": "100GB、300GB与1000GB三档月流量，轻度浏览选基础，追剧与游戏选旗舰。",
+          "AI_FEATURE_TITLE_3": "年付更省",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150，旗舰版¥350，团队版¥850，相当于十个月价格用满一年。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备系统对应不同订阅客户端，依据设备类型选择并参考对应文档配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度个人用户，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，三步即可上手在人间。",
+          "AI_STEP_TITLE_1": "1. 选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "2. 查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统是否在支持范围内，并留意在线设备数上限。",
+          "AI_STEP_TITLE_3": "3. 配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的文档说明导入订阅，完成初始化后开始使用。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版与旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备在线，走普通线路节点池。旗舰版每月300GB、支持5台设备，并包含IPLC专线游戏加速与原生流媒体解锁，适合对速度与解锁有更高要求的用户。",
+          "AI_FAQ_QUESTION_2": "团队版最多可以让几台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "团队版支持20台设备同时在线，并提供VIP专属高带宽节点与企业定制路由能力，适合小型工作室或多人协作场景。",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_3": "按年付基础版¥150、旗舰版¥350、团队版¥850，相当于以十个月的价格使用十二个月，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "如何将订阅导入客户端？",
+          "AI_FAQ_ANSWER_4": "先根据设备系统选择对应客户端，再参考该客户端的配置文档导入订阅信息。不同客户端界面略有差异，以文档中的步骤为准逐步操作即可。",
+          "AI_FAQ_QUESTION_5": "在人间适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "日常浏览与轻量办公可选基础版，追剧与游戏加速建议旗舰版，多人多设备协作则适合团队版。依据实际设备数量与流量消耗选择档位即可。",
+          "AI_CLOSING_TITLE": "选好套餐，开始连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定在人间套餐，按客户端文档完成订阅配置，即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5wglma.cn",
+    "host": "5wglma.cn"
+  },
+  "file_hashes": {
+    "index.html": "89a6702b6906a2ad487608b65b224f61434836c2fab4afc52a25d2ae52bcdef0",
+    "sitemap.xml": "281e35cc203babc7dc8af96856c2e36757539a3316dee9cd26ba99122af04c71",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4bf457c83a2449c114bdb490e591371ab327508ec010082d57670ac4c7887932",
+    "robots.txt": "043d907701926acf214cd134d1b2795215b35b0cd5bfcea9ad8f46f189bb574f",
+    "a721ea335fafd758389122a99174c4f4.txt": "95140ef25077a3efca30cad25cad621cabc3a286d7292bcf936f3bcdb135c694"
+  },
+  "revision": "7c058df5198fed785677a485f009b7b8610590116799af1b60af447019f9df80"
+}
